@@ -1,62 +1,96 @@
 # HTML-5-CSS3
 Projetos desenvolvidos em HTML5 + CSS3 durante o curso, o código é de autoria do professor embora eu tenha reproduzido durante o curso!
 
-#Projetos HTML5
+# Projetos HTML5
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandowl/HTML-5-CSS3/blob/main/LICENSE)
 
 Os projetos disponibilizados nestes diretórios, foram todos desenvolvidos, juntamente com os professores responsáveis pelo curso.
 No decorrer do curso foram vistos os seguintes conceitos:
 
-##HTML5: 
-cabeçalhos, listas, imagens, links, tabelas, formulários, hear, nav, footer, article, section aside.
+## HTML5: 
+Cabeçalhos, listas, imagens, links, tabelas, formulários, hear, nav, footer, article, section aside.
 
-##CSS3 Intermediário:
-seletores, div & span, cores, modelo caixa, elementos flutuantes, posicionamento, formatando links.
+## CSS3 Intermediário:
+Seletores, div & span, cores, modelo caixa, elementos flutuantes, posicionamento, formatando links.
 
-##CSS3 avançado:
-herança, especifidade, barra navegação vertical e horizontal, abas, layouts líquidos, largura fixa, parallax, fontes customizadas.
+## CSS3 avançado:
+Herança, especifidade, barra navegação vertical e horizontal, abas, layouts líquidos, largura fixa, parallax, fontes customizadas.
 
-##Recursos especiais:
-normalize css, cantos arredondados, degradês, sombras, animações, transições, flexbox.
+## Recursos especiais:
+Normalize css, cantos arredondados, degradês, sombras, animações, transições, flexbox.
+<br />
 
 # HTML5
 
-- Projeto UNES (Página institucional de uma universidade)
+## Projeto UNES (Página institucional de uma universidade)
+<br />
 
-Prévia do projeto:
-![Web] (https://github.com/nandowl/HTML-5-CSS3/blob/main/assets/ProjetoUnes.PNG)
+- Prévia do projeto:
+![Optional_Text](./assets/ProjetoUnes.PNG)
+<br />
+<br />
 
 # CSS3
+<br />
 
-- Projeto Anna Bella (Página web pessoal)
-Prévia do projeto:
-![Web] (https://github.com/nandowl/HTML-5-CSS3/blob/main/assets/Projeto1.PNG)
+## Projeto Anna Bella (Página web pessoal)
+<br />
 
-- Projeto TecBlog (Blog de tecnologia)
-Prévia do projeto:
-![Web] (https://github.com/nandowl/HTML-5-CSS3/blob/main/assets/Projeto2.PNG)
+- Prévia do projeto:
+![Optional_Text](./assets/Projeto1.PNG)
+<br />
+<br />
+
+## Projeto TecBlog (Blog de tecnologia)
+<br />
+
+- Prévia do projeto:
+![Optional_Text](./assets/Projeto2.PNG)
+<br />
+<br />
+
 
 # CSS3 Intermediário & avançado
+<br />
 
-- Projeto Notícias da Cidade (Portal de notícias)
-Prévia do projeto:
-![Web] (https://github.com/nandowl/HTML-5-CSS3/blob/main/assets/Projeto3.PNG)
+## Projeto Notícias da Cidade (Portal de notícias)
+<br />
 
-- Projeto Chalé Hotel (Página publicitária)
-Prévia do projeto:
-![Web] (https://github.com/nandowl/HTML-5-CSS3/blob/main/assets/Projeto4.PNG)
+- Prévia do projeto:
+![Optional_Text](./assets/Projeto3.PNG)
+<br />
+<br />
+
+
+## Projeto Chalé Hotel (Página publicitária)
+<br />
+
+- Prévia do projeto:
+![Optional_Text](./assets/Projeto4.PNG)
+<br />
+<br />
+
 
 # HTML5 e CSS3 - Recursos especiais
+<br />
 
-- Projeto Museu Nacional
-Prévia do projeto:
-![Web] (https://github.com/nandowl/HTML-5-CSS3/blob/main/assets/ProjetoMuseu.PNG)
+## Projeto Museu Nacional
+<br />
 
-- Projeto Efeito Parallax
+- Prévia do projeto:
+![Optional_Text](./assets/ProjetoMuseu.PNG)
+<br />
+<br />
 
-Prévia do projeto:
-![Web] (https://github.com/nandowl/HTML-5-CSS3/blob/main/assets/Paralax.PNG)
+## Projeto Efeito Parallax
+<br />
+
+- Prévia do projeto:
+![Optional_Text](./assets/Paralax.PNG)
+<br />
+<br />
 
 
-Os códigos são de autoria de Jamilton Damasceno
-E foram reproduzidos por Fernando Piattelli.
+- Os códigos são de autoria de Jamilton Damasceno
+- <br />
+- E foram reproduzidos por Fernando Piattelli.
