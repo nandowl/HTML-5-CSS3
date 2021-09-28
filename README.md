@@ -91,5 +91,5 @@ Normalize css, cantos arredondados, degradês, sombras, animações, transiçõe
 <br />
 
 
-- Os códigos são de autoria de Jamilton Damasceno
+- Os códigos são de autoria do professor Jamilton Damasceno
 - E foram reproduzidos por Fernando Piattelli.
